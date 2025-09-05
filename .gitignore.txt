@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PyCharm / VS Code settings
+.idea/
+.vscode/
+
+# Python compiled files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore images folder if you generate plots
+images/
