@@ -17,14 +17,14 @@ Accurate sales forecasting enables:
 ---
 
 ## 📂 Project Structure
-Retail-Sales-Prediction/
-│
-├── notebooks/ → Jupyter notebook with full workflow
-│ └── Retail_Sales_Prediction.ipynb
-│
-├── requirements.txt → dependencies
-├── README.md → documentation
-└── .gitignore
+
+- **notebooks/** – contains Jupyter notebooks with full workflow  
+  - `Retail_Sales_Prediction.ipynb` – main notebook for the project  
+
+- `requirements.txt` – Python dependencies  
+- `README.md` – project documentation  
+- `.gitignore` – files/folders to ignore in Git
+
 
 ---
 
